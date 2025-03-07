@@ -3,12 +3,12 @@
     font-size: 16px;
 }
 body {
-    background-color: #f55353;
+    background-color: #fcfafa;
     margin: 0;
     padding: 0;
 }
 main {
-    background-color: rgb(250, 144, 6);
+    background-color: rgb(16, 133, 223);
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
